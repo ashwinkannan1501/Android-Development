@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">எனது முதல் விண்ணப்பம்</string>
+    <string name="multiple_languages">பல மொழிகளை ஆதரிக்கவும்</string>
+    <string name="hello_blank_fragment">வணக்கம் வெற்று துண்டு</string>
+    <string name="toast_message_button">ஒரு சிற்றுண்டி செய்தியைக் காட்டு</string>
+    <string name="toast_message">இது ஒரு சிற்றுண்டி செய்தி</string>
+</resources>

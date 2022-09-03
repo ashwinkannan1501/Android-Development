@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dp"
+    tools:context=".Program_10_SnackbarMessage">
+
+    <TextView
+        android:id="@+id/snackbar_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="64dp"
+        android:gravity="center"
+        android:paddingRight="30dp"
+        android:text="Snackbar Messages"
+        android:textColor="#5D24CF"
+        android:textSize="48sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/simple_snackbar_button"
+        android:layout_width="286dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="152dp"
+        android:background="#10D5EC"
+        android:hapticFeedbackEnabled="true"
+        android:text="Simple Snackbar"
+        android:textAllCaps="true"
+        android:textColor="#0FC3DE"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/snackbar_text_view" />
+</androidx.constraintlayout.widget.ConstraintLayout>

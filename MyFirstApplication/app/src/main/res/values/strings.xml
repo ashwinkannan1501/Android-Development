@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="multiple_languages">SUPPORT MULTIPLE LANGUAGES</string>
+    <string name="toast_message_button">Show a Toast Message</string>
+    <string name="toast_message">This is a toast message</string>
+</resources>

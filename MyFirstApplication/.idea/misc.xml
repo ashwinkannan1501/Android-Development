@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17222222222222222" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.12152777777777778" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12152777777777778" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/drawable/ic_lock.xml" value="0.16513157894736843" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/TextView.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/activity_program_18_intent.xml" value="0.2" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/intent_second_activity.xml" value="0.15230263157894736" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/new_fragment.xml" value="0.1" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program2_button.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program3_edit_text.xml" value="0.264" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_10_snackbar_message.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_11_alert_dialog.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_12_scroll_view.xml" value="0.264" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_13_web_view.xml" value="0.180859375" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_14_list_view.xml" value="0.2" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_15_spinner.xml" value="0.176" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_16_activity_life_cycle.xml" value="0.15230263157894736" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_17_activity_and_life_cycle.xml" value="0.15230263157894736" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_19_implicit_intent.xml" value="0.15230263157894736" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_1_text_view.xml" value="0.264" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_1_toast_message.xml" value="0.11680121089808275" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_20_fragment_life_cycle.xml" value="0.15230263157894736" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_20_service_class.xml" value="0.15230263157894736" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_20_servie_class.xml" value="0.176" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_21_broadcast_receiver_class.xml" value="0.15230263157894736" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_21_service_class.xml" value="0.136" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_22_shared_preferences_class.xml" value="0.264" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_23_multiple_languages_support.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_24_support_different_pixel_denities.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_2_button.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_3_edit_text.xml" value="0.264" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_4_image_view.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_5_check_box.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_6_radio_button.xml" value="0.264" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_7.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_7_toggle_button.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_8_switch.xml" value="0.24114583333333334" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/program_9_toast_message.xml" value="0.264" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/layout/second_activity_application_and_life_cycle.xml" value="0.16" />
+        <entry key="..\:/Android development/MyFirstApplication/app/src/main/res/xml/program_7.xml" value="0.24114583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
